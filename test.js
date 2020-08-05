@@ -4,3 +4,4 @@ console.log("git stash")
 console.log("git pull");
 console.log("git stash pop")
 
+consoe.log("git pull");
